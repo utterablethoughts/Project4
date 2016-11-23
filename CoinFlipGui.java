@@ -12,7 +12,7 @@
 
 
 
-Public class CoinFlip {
+Public class CoinFlipGui {
   
   
   
