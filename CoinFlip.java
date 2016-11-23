@@ -1,7 +1,7 @@
 
 Public class CoinFlip {
 
-
+public 
 
 
 
